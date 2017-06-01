@@ -1,4 +1,6 @@
-﻿namespace Task_02
+﻿using System.Text;
+
+namespace Task_02
 {
     using System;
 
@@ -14,7 +16,10 @@
     {
         private static void Main(string[] args)
         {
-            Console.CursorVisible = false;
+	        Console.InputEncoding = Encoding.Unicode;
+	        Console.OutputEncoding = Encoding.Unicode;
+
+			Console.CursorVisible = false;
             string ok = "y";
 
             while (ok == "y" || ok == "н")

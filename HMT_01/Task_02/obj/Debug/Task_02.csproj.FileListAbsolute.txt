@@ -1,1 +1,7 @@
 C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_01\Task_02\bin\Debug\Task_02.exe.config
+E:\mentoring\EXTERNAL LAB - UdSU\Tasks_Q2_2017\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_01\Task_02\bin\Debug\Task_02.exe.config
+E:\mentoring\EXTERNAL LAB - UdSU\Tasks_Q2_2017\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_01\Task_02\bin\Debug\Task_02.exe
+E:\mentoring\EXTERNAL LAB - UdSU\Tasks_Q2_2017\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_01\Task_02\bin\Debug\Task_02.pdb
+E:\mentoring\EXTERNAL LAB - UdSU\Tasks_Q2_2017\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_01\Task_02\obj\Debug\Task_02.csprojResolveAssemblyReference.cache
+E:\mentoring\EXTERNAL LAB - UdSU\Tasks_Q2_2017\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_01\Task_02\obj\Debug\Task_02.exe
+E:\mentoring\EXTERNAL LAB - UdSU\Tasks_Q2_2017\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_01\Task_02\obj\Debug\Task_02.pdb
