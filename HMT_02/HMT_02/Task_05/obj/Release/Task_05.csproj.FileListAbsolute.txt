@@ -1,0 +1,5 @@
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_05\bin\Release\Task_05.exe.config
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_05\bin\Release\Task_05.exe
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_05\bin\Release\Task_05.pdb
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_05\obj\Release\Task_05.exe
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_05\obj\Release\Task_05.pdb

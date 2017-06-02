@@ -1,0 +1,12 @@
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_06\bin\Release\Task_06.exe.config
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_06\obj\Release\Task_06.csprojResolveAssemblyReference.cache
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_06\bin\Release\Task_06.exe
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_06\bin\Release\Task_06.pdb
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_06\obj\Release\Task_06.exe
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_06\obj\Release\Task_06.pdb
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_06\bin\Release\Task_06.exe.config
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_06\obj\Release\Task_06.exe
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_06\obj\Release\Task_06.pdb
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_06\bin\Release\Task_06.exe
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_06\bin\Release\Task_06.pdb
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_06\obj\Release\Task_06.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_01\bin\Release\Task_01.exe.config
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_01\bin\Release\Task_01.exe
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_01\bin\Release\Task_01.pdb
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_01\bin\Release\StyleCop.CSharp.dll
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_01\bin\Release\StyleCop.dll
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_01\bin\Release\Microsoft.Build.Utilities.v3.5.dll
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_01\bin\Release\ru\Microsoft.Build.Utilities.v3.5.resources.dll
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_01\obj\Release\Task_01.exe
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_02\HMT_02\Task_01\obj\Release\Task_01.pdb
