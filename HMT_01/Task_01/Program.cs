@@ -1,4 +1,6 @@
-﻿namespace Task_01
+﻿using System.Text;
+
+namespace Task_01
 {
     using System;
 
@@ -12,7 +14,10 @@
     {
         private static void Main(string[] args)
         {
-            float x, y;
+	        Console.InputEncoding = Encoding.Unicode;//todo pn без явного задания кодировки будет использована кодировка по умолчанию. Машина, на которой я проверяю настроена на английскую культуру, поэтому кириллические символы отображаются в ней как знаки вопроса. Следует учитывать такое специфичное поведение консоли в следующих заданиях :)/
+	        Console.OutputEncoding = Encoding.Unicode;
+
+			float x, y;
             Console.CursorVisible = false; // чтобы не было мигающего курсора
             string str, ok;
             ok = "y";
@@ -89,7 +94,7 @@
                             break;
 
                         // многоугольник
-                        case "и":
+                        case "и": //todo pn говорит, что точка (-2; -1) не принадлежит фигуре
                             MathOperation newPolygon = new MathOperation();
                             Console.Write("Точка ({0}; {1}) {2} {3} \n", x, y, newPolygon.Polygon(), str);
                             ok = string.Empty;
