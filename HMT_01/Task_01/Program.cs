@@ -14,10 +14,10 @@ namespace Task_01
     {
         private static void Main(string[] args)
         {
-	        Console.InputEncoding = Encoding.Unicode;//todo pn без явного задания кодировки будет использована кодировка по умолчанию. Машина, на которой я проверяю настроена на английскую культуру, поэтому кириллические символы отображаются в ней как знаки вопроса. Следует учитывать такое специфичное поведение консоли в следующих заданиях :)/
-	        Console.OutputEncoding = Encoding.Unicode;
+            Console.InputEncoding = Encoding.Unicode;
+            Console.OutputEncoding = Encoding.Unicode;
 
-			float x, y;
+            float x, y;
             Console.CursorVisible = false; // чтобы не было мигающего курсора
             string str, ok;
             ok = "y";

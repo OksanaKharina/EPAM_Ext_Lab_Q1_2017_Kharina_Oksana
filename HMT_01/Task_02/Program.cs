@@ -16,10 +16,10 @@ namespace Task_02
     {
         private static void Main(string[] args)
         {
-	        Console.InputEncoding = Encoding.Unicode;
-	        Console.OutputEncoding = Encoding.Unicode;
+            Console.InputEncoding = Encoding.Unicode;
+            Console.OutputEncoding = Encoding.Unicode;
 
-			Console.CursorVisible = false;
+            Console.CursorVisible = false;
             string ok = "y";
 
             while (ok == "y" || ok == "н")
