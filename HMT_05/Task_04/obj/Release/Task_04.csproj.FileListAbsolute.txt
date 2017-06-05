@@ -1,0 +1,6 @@
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_05\Task_04\bin\Release\Task_04.exe.config
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_05\Task_04\bin\Release\Task_04.exe
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_05\Task_04\bin\Release\Task_04.pdb
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_05\Task_04\obj\Release\Task_04.csprojResolveAssemblyReference.cache
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_05\Task_04\obj\Release\Task_04.exe
+C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_05\Task_04\obj\Release\Task_04.pdb
