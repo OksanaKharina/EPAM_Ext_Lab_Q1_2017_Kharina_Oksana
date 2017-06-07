@@ -30,7 +30,7 @@ namespace Task_06
 
             Console.WriteLine("Параметры подписи: {0}", c);
         }*/
-        static void Main(string[] args)
+        static void Main(string[] args)//todo pn код не хранит предыдущие состояния текста. Всегда показывается только что выбранное.
         {
             Console.InputEncoding = System.Text.Encoding.Unicode;
             Console.OutputEncoding = System.Text.Encoding.Unicode;

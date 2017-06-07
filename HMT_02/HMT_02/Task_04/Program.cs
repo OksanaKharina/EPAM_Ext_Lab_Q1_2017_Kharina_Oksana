@@ -20,7 +20,7 @@ namespace Task_04
             Console.CursorVisible = false;
             Console.Write("Введите количество треугольников N = ");
             string str = Console.ReadLine();
-            int h = int.Parse(str) + 1;
+            int h = int.Parse(str) + 1;//todo pn упадет здесь, если пользователь введет не число
             int k = h * 2;
             char[,] arr = new char[h, k];
 

@@ -19,8 +19,8 @@ namespace Task_03
             Console.CursorVisible = false;
             Console.Write("N = ");
             string str = Console.ReadLine();
-            int n = int.Parse(str);
-            int k = n * 2;
+            int n = int.Parse(str);//todo pn упадет здесь, если пользователь введет не число
+			int k = n * 2;
             char[,] arr = new char[n, k];
             for (int i = 0; i < n; i++)
             {
