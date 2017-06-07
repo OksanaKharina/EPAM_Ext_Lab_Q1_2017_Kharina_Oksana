@@ -10,7 +10,7 @@
         /// Проведите сравнительный анализ скорости работы классов String и StringBuilder для операции сложения строк:
         /// </summary>
         /// <param name="args"></param>
-        static void Main(string[] args)
+        static void Main(string[] args)//todo pn нужно больше прогонов этого эксперимента для более полных результатов
         {
             Console.InputEncoding = Encoding.Unicode;
             Console.OutputEncoding = Encoding.Unicode;
