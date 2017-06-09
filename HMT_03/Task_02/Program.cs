@@ -11,7 +11,7 @@
         /// и их тип определяются разработчиком.
         /// </summary>
         /// <param name="args"></param>
-        static void Main(string[] args)
+        static void Main(string[] args)//todo pn лучше показать что было в массиве, а потом что стало
         {
             Console.InputEncoding = Encoding.Unicode;
             Console.OutputEncoding = Encoding.Unicode;

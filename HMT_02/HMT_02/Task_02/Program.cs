@@ -20,8 +20,8 @@ namespace Task_02
             Console.CursorVisible = false;
             Console.Write("N = ");
             string str = Console.ReadLine();
-            int n = int.Parse(str);
-            char[,] arr = new char[n, n];
+            int n = int.Parse(str);//todo pn упадет здесь, если пользователь введет не число
+			char[,] arr = new char[n, n];
             for (int i = 0; i < n; i++)
             {
                 for (int j = 0; j <= i; j++)
