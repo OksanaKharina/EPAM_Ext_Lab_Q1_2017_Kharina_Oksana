@@ -13,7 +13,7 @@
         /// готовые функции языка (Sort, Max и т.д.) использовать в данном задании запрещается.
         /// </summary>
         /// <param name="args"></param>
-        static void Main(string[] args)
+        static void Main(string[] args)//todo pn не увидел отсортированного массива
         {
             Console.InputEncoding = Encoding.Unicode;
             Console.OutputEncoding = Encoding.Unicode;
