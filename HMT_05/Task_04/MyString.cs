@@ -26,7 +26,7 @@ namespace Task_04
         {
             if (str1.Length > str2.Length)
             {
-                return "строка 1 > строки 2";
+                return "строка 1 > строки 2";//todo pn мои глаза... давай как раньше: выносим общую строку в константы и подставляем 1 символ в зависимости от необходимости.
             }
             else if (str1.Length < str2.Length)
             {
@@ -40,7 +40,7 @@ namespace Task_04
         ///<summary>Разбиение строки на слова</summary>
         public string Split()
         {
-            string pattern = "[- ,./+= !@$%^&*()?|]+";
+            string pattern = "[- ,./+= !@$%^&*()?|]+";//todo pn проще было бы регулярное выражение входным параметром принимать и в зависимости от него разбивать на подстроки
             Regex r = new Regex(pattern);
             List<string> st = new List<string>(r.Split(str1));
             foreach (string s in st)
@@ -52,7 +52,7 @@ namespace Task_04
         ///<summary>Конкатенация строк</summary>
         public string Concat()
         {
-            return String.Concat("\n" + "one, two ", "three, four");
+            return String.Concat("\n" + "one, two ", "three, four");//todo pn такое чувство, что ты писала этот класс только для того, чтобы продемонстрировать его использование. А если он понадобится для дальнейшей разработки?
         }
         ///<summary>Поиск слова в строке (первое вхождение)</summary>
         private string s;

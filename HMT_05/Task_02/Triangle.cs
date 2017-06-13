@@ -20,7 +20,7 @@ namespace Task_02
         /// <summary>
         /// существование треугольника
         /// </summary>
-        public bool Existence(double a, double b, double c)
+        public bool Existence(double a, double b, double c)//todo pn вот эту вот проверку бы в конструктор (вызвать там этот метод)
         {
             if ( (a + b > c) && (a + c > b) && (b + c > a) && (a > 0) && (b > 0) && (c > 0))
             {
