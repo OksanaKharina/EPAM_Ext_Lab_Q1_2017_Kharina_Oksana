@@ -29,7 +29,7 @@ namespace Task_01
         {
             Console.WriteLine("Длина окружности l = {0}, площадь круга S = {1}", len, are);
         }
-        private int g;
+        private int g;//todo pn на что тебе g, если у тебя есть r?
         public int Radius
         {
             get
