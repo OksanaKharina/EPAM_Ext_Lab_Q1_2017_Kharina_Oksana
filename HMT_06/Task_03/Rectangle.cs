@@ -18,11 +18,11 @@ namespace Task_03
         {
             return a * b;
         }
-        public string Square(double a, double b)
+        public string Square(double a, double b)//todo pn странный и ненужный метод.
         {
             if (a == b)
             {
-                Console.WriteLine("\tВаш прямоугольник - квадрат");
+                Console.WriteLine("\tВаш прямоугольник - квадрат");//todo pn действительно))
             }
             return "";
         }

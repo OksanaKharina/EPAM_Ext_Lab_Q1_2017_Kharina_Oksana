@@ -2,7 +2,7 @@
 
 namespace Task_06
 {
-    public class Monster
+    public class Monster//todo pn а монстры статичны и не хотят съесть героя? так не интересно...
     {
         public string name;
         public int health; //здоровье
@@ -51,8 +51,8 @@ namespace Task_06
             Random rnd = new Random();
             int k = 5; //количество монстров
             Monster[] GroupM = new Monster[k];
-            string[] s = { "заяц", "волк", "медведь", "лиса", "акула" };
-            for (int i = 0; i < k; i++)
+            string[] s = { "заяц", "волк", "медведь", "лиса", "акула" };//todo pn лучше вынести в отдельный enum
+			for (int i = 0; i < k; i++)
             {
                 cell = rnd.Next(1, 100);
                 health = rnd.Next(1, 10);

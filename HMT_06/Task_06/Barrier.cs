@@ -5,7 +5,7 @@ namespace Task_06
     public class Barrier
     {
         public string name;
-        public int cellBar; //клетка - местонахождение на поле
+        public int cellBar; //клетка - местонахождение на поле //todo pn уже не очень хорошо, вдруг захочешь изменить клетку. Лучше её в отдельный класс, а здесь агрегировать её
         public string Name
         {
             get
@@ -36,7 +36,7 @@ namespace Task_06
             Random rnd = new Random();
             int k = 6; //количество монстров
             Barrier[] GroupB = new Barrier[k];
-            string[] s = { "камень", "дерево", "река", "гора", "дом", "мертвый монстр" };
+            string[] s = { "камень", "дерево", "река", "гора", "дом", "мертвый монстр" };//todo pn лучше вынести в отдельный enum
             for (int i = 0; i < k; i++)
             {
                 cellBar = rnd.Next(1, 100);

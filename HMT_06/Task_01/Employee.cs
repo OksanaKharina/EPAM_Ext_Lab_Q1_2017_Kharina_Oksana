@@ -14,7 +14,7 @@ namespace Task_01
         public Employee()
         {
         }
-        public string workExp(DateTime dateWork)
+        public string workExp(DateTime dateWork)//todo pn перемудрила с этим полем. Не вижу проверки на то, что опыт не может быть больше возраста
         {
             int ageMonth = DateTime.Now.Month - dateWork.Month;
             int ageYears = DateTime.Now.Year - dateWork.Year;
@@ -23,7 +23,7 @@ namespace Task_01
                 ageMonth--;
                 ageYears--;
             }
-            string work = ageMonth + " месяц(..) " + ageYears + " лет(год)";
+            string work = ageMonth + " месяц(..) " + ageYears + " лет(год)";//todo pn а стандартное форматирование дат не устравивает?
             return work;
         }
         public Employee(string surname, string name, string patronomic, DateTime dateOfBirth, int Age, string Post, string workExperience) : base (surname, name, patronomic, dateOfBirth, Age)

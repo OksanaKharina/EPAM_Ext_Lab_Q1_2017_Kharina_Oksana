@@ -26,8 +26,8 @@ namespace Task_06
             Random rnd = new Random();
             int k = 7; //количество бонусов
             Bonuses[] GroupBon = new Bonuses[k];
-            string[] s = { "bon1", "bon2", "вода", "мед", "абрикос", "вишня", "яблоко" };
-            for (int i = 0; i < k; i++)
+            string[] s = { "bon1", "bon2", "вода", "мед", "абрикос", "вишня", "яблоко" };//todo pn лучше вынести в отдельный enum
+			for (int i = 0; i < k; i++)
             {
                 left = rnd.Next(1, 5);
                 tmp[i] = left;
