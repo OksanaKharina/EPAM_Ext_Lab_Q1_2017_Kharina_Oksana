@@ -20,7 +20,7 @@ namespace Task_01
             Console.OutputEncoding = System.Text.Encoding.Unicode;
             Console.CursorVisible = false;
 
-            List<int> numbers = new List<int>() { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            List<int> numbers = new List<int>() { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };//todo pn ну, мы же всё-таки программисты и такие массивы умеем задавать и в цикле...
             foreach (int i in numbers)
             {
                 Console.Write(" " + i);
@@ -35,7 +35,7 @@ namespace Task_01
 
                     if (j % 2 != 0)
                     {
-                        numbers.RemoveAt(j);
+                        numbers.RemoveAt(j);//todo pn так нельзя писать: ты удаляешь элемент и не изменяешь значение итератора. Соответственно, у тебя 10й элемент остается в выборке.
                     }
 
                 }

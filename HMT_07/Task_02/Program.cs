@@ -21,7 +21,7 @@ namespace Task_02
             Console.OutputEncoding = System.Text.Encoding.Unicode;
             Console.CursorVisible = false;
 
-            StreamReader f = new StreamReader(@"C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_07\Task_02\text.txt", Encoding.Default);
+            StreamReader f = new StreamReader(@"C:\Users\Оксана\Desktop\EPAM_Ext_Lab_Q1_2017_Kharina_Oksana\HMT_07\Task_02\text.txt", Encoding.Default);//todo pn ну, у меня на машине такого пути нет... Используй относительные пути.
             string s = f.ReadToEnd();
 
             char[] separ = {' ', '.', ','};

@@ -12,12 +12,12 @@ namespace Task_03
     /// реализовать свой собственный класс  DynamicArray, 
     /// представляющий собой массив с запасом. Класс должен содержать:
     /// </summary>
-    public interface IEnumerable
+    public interface IEnumerable //todo pn ты затерла системный интерфейс? зачем?
     {
         IEnumerable GetEnumerator();
     }
-    public interface ICollection<T> : IEnumerable<T>, IEnumerable
-    {
+    public interface ICollection<T> : IEnumerable<T>, IEnumerable //todo pn и где ты его (ICollection) реализуешь?
+	{
         int Count { get; }
         void Insert(int index, T item);
         void Add(T item);
@@ -81,7 +81,7 @@ namespace Task_03
         /// </summary>
         public void Add(T item)
         {
-            if (data.Length == count)
+            if (data.Length == count)//todo pn ты билдила приложение перед отправкой на проверку?
             {
                 GrowArray();
             }
@@ -113,9 +113,9 @@ namespace Task_03
         /// успешно и false в противном случае. При удалении 
         /// элементов реальная емкость массива не должна уменьшаться.
         /// </summary>
-        private void GrowArray()
+        private void GrowArray()//todo pn мне кажется, что описание не к тому методу
         {
-            int newLength = data.Length == 0 ? (data.Length * 3) / 2 + 1 : data.Length << 1;
+            int newLength = data.Length == 0 ? (data.Length * 3) / 2 + 1 : data.Length << 1;//todo pn а теперь представь, что у тебя 1млн элементов в массиве, а добавить нужно 100. лучше вынести в константу число, на которое ты увеличиваешь массив каждый раз.
 
             T[] newArray = new T[newLength];
 
