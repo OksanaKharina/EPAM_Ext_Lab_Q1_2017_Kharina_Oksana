@@ -25,7 +25,7 @@ namespace Task_02
     /// поле с временем прихода. Продемонстрировать работу офиса 
     /// при последовательном приходе и уходе сотрудников.
     /// </summary>
-    class Program
+    class Program //todo pn разбей, пожалуйста, данную логику на классы Person, Office. В Program должны находиться лишь приходы и уходы сотрудников.
     {
         delegate void Message(string name);
         static void Main(string[] args)
