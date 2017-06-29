@@ -2,7 +2,7 @@
 
 namespace Task_02
 {
-    class Person
+    public class Person
     {
         public string Name { get; set; }
         public void ComeToWork(string workPerson)
@@ -21,13 +21,13 @@ namespace Task_02
         {
             Console.WriteLine("'Добрый вечер, {0}!', - сказал {1}.", anotherPerson, Name);
         }
-        public void Bye(string partPerson)
-        {
-            Console.WriteLine("'До свидания, {0}!', - сказал {1}.", partPerson, Name);
-        }
         public void LeaveTheJob(string jobPerson)
         {
             Console.WriteLine("\n" + "[{0} ушёл домой]", jobPerson, Name);
+        }
+        public void Bye(string partPerson)
+        {
+            Console.WriteLine("'До свидания, {0}!', - сказал {1}.", partPerson, Name);
         }
     }
 }
