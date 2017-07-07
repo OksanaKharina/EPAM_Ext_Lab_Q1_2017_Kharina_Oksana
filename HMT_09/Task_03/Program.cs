@@ -36,7 +36,7 @@
 
             // #3
             Console.WriteLine("\n[ Task 03 ]\n");
-            DelegateSort dell = ListOperation.SortVar();
+            DelegateSort dell = ListOperation.SortVar();//todo pn где анонимный тип?
             ListOperation.WriteList(dell(coll));
 
             // #4
