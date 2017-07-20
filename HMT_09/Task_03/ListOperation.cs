@@ -49,7 +49,7 @@
         }
 
         // sorting through delegates
-        public static ArrayList SortDel(ArrayList arr)
+        public static ArrayList SortDel(ArrayList arr)//todo pn условие передается через делегат, а не весь метод поиска
         {
             Console.WriteLine("\n[ Условие поиска черезделегат ]\n");
             foreach (int a in arr)
@@ -80,7 +80,7 @@
 
                 Console.WriteLine("\n");
                 return arr; // возвращает повторно массив, запрашивает return
-                // может есть другой способ реализации?
+                // может есть другой способ реализации? //todo pn конечно есть. нужно передавать само условие (а > 0) через делегат
             };
             return del;
         }
