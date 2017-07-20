@@ -41,7 +41,7 @@
                             Console.WriteLine("arr[{0}] = {1}", i, arr[i]);
                         }
 
-                        int sum = arr.Sum();
+                        int sum = arr.Sum();//todo pn ты использовала не свой метод суммы элементов массива)
 
                         Console.WriteLine("\nСумма в массиве равна {0}", sum);
                     }
