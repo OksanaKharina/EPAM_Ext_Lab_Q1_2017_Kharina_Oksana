@@ -1,0 +1,111 @@
+ul  {
+	width: 200px; /*ширина блока*/
+	background: #FFA500; /*цвет фона*/
+	border: 1px solid #000000; /*параметры рамки*/
+	color: brown; /*цвет текста*/
+	padding: 20px; /*поля вокруг текста*/	
+	border-radius: 10px; /*радиус скругления*/	
+	box-shadow: 10px 10px #000000 /*тень -внутри элемента inset/сдвиг по гор/верт /радиус размытия / растяжения / цвет*/
+	}
+	
+li {
+	list-style-type: none; /*убираем маркеры*/
+	line-height: 1.2em; /*расстояние между строками*/
+}
+   form {
+  width: 400px;
+  height: 300px;
+  border: 2px solid #4169E1;
+  background: #1E90FF;
+}
+
+.name {
+  position: relative;
+  width: 100%;
+  height: 65px;  
+  border-bottom: 1px solid white;
+  font: 26px Arial;
+  color: white;
+}
+
+.name span {
+  position: absolute;
+  left: 25px;
+  bottom: 10px;  
+}
+
+.contacts {
+  width: 100%;
+  height: 170px;
+  font: 18px Arial;
+  color: white;
+}
+
+label {
+  display: block;
+  margin-left: 25px;
+}
+
+input {
+  margin-left: 25px;
+}
+
+.email {
+  position: relative;
+  width: 100%;
+  height: 85px;  
+}
+
+.email span {
+  position: absolute;  
+  bottom: 10px;
+}
+
+.email input{
+  width: 305px; 
+}
+
+.passwords {
+  height: 85px;
+}
+
+.password {
+  position: relative;
+  float: left;
+  width: 50%;
+  height: 100%; 
+}
+
+.password span {
+  position: absolute;  
+  bottom: 25px;
+}
+
+.password input, .password label {
+  width: 130px;
+}
+
+.again span {
+  position: absolute;  
+  bottom: 25px;
+}
+
+.again input, .again label {
+  margin-left: 0;
+  width: 130px;
+}
+
+.button {
+  position: relative;
+  height: 65px;
+}
+
+button {
+  position: absolute;
+  top: 15px;
+  left: 25px;  
+  width: 100px;
+  height: 30px;
+  border: none;
+  background: #FFDF7F;
+}
